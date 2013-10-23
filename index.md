@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: My Hack-log!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
