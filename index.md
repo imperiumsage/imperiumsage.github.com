@@ -1,7 +1,6 @@
 ---
 layout: page
 title: My Hack-log!
-tagline: Supporting tagline
 ---
 {% include JB/setup %}
 <ul class="posts">
