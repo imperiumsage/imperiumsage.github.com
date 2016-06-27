@@ -29,7 +29,7 @@ Jun 2008 - Apr 2011
 ### Google Checkout
 ***Software Engineering Intern*** 
 May 2007 – Aug 2007
-* Migrated Order History service from MySQL to Bigtable.\
+* Migrated Order History service from MySQL to Bigtable.
 
 ### University of Texas at Austin
 ***Teaching Assistant***
