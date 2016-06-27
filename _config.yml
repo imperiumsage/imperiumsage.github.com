@@ -1,5 +1,5 @@
 title:            Sai Shenoy
-description:      BI Engg lead at Kabam by day; street food chef and hacking enthusiast on nights and weekends.
+description:      CTO at Nurep by day; street food chef and hacking enthusiast on nights and weekends.
 logo:             sai-shenoy.jpeg
 disqus_shortname: 
 search:           true
@@ -30,7 +30,7 @@ links:
     url: /
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Los_Angeles
 future:      true
 pygments:    true
 markdown:    kramdown
