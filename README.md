@@ -1,4 +1,4 @@
-# imperiumsage.github.com
+# Resume.md ;)
 ## Summary of Qualifications
 
 Full stack technologist with over 10 years of experience developing & architecting applications, building & leading teams, and creating & owning products.
