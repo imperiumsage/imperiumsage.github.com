@@ -8,7 +8,7 @@ Full stack technologist with over 11 years of experience developing & architecti
 **Co-founder and Chief Technology Officer**
 Feb 2014 - current
 * Successfully architected and developed Nurep's pioneering teleproctoring and medical device support offering that allows remote surgeons or medical device reps to remotely attend surgeries securely and efficiently over a mobile device.
-* Product has been used to support 400+ cases and has been rated as the best offering in this space by med tech giants such as Medtronics and Boston Scientific.
+* Product has been used to support 400+ cases and has been rated as the best offering in this space by med tech giants such as Medtronic and Boston Scientific.
 * Funding more than doubled, priced-round talks in progress.
 * Recruited and mentored first engineer.
 
