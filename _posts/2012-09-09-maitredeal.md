@@ -24,4 +24,4 @@ Patrons select items from a dynamic menu, place orders and even pay right from t
 <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/priyankacg/maitredeal-techcrunch-disrupt-sf-2012-hackathon" title="MaitreDeal TechCrunch Disrupt SF 2012 hackathon" target="_blank">MaitreDeal TechCrunch Disrupt SF 2012 hackathon</a> </strong> from <strong><a href="http://www.slideshare.net/priyankacg" target="_blank">priyankacg</a></strong> 
 </div>
 
-#[LIVE DEMO](http://on.aol.com/video/maitre-deal-demo-517474039)
+#[LIVE DEMO](https://techcrunch.com/video/maitre-deal-demo/517474039/)
